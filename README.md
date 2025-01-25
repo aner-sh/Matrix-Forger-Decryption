@@ -22,3 +22,7 @@ It is possible that the forgery is not unique, and any forgery with a minimal di
 In the machine found by the police, there is a history of original ciphers that have been forged.
 
 For each original cipher found in the machine's history, find the forged cipher that has the minimal forgery discrepancy. Assume that all cards in the forger's possession have the minimal forgery discrepancy.
+
+*Will you be able to decrypt the hidden matrix and redeem the city from the burden of the forger?*
+
+-Adapted from challenge of: Zvika Shiran, Ckeck-Point 
